@@ -1,4 +1,4 @@
-# triggered-by-hejm2000-actions-test
+// triggered-by-hejm2000-actions-test
 import { readFile, writeFile } from "node:fs/promises";
 
 const root = new URL("../", import.meta.url);
